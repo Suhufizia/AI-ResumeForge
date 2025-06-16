@@ -1,3 +1,5 @@
 # AI-ResumeForge
 
 AI-ResumeForge is an AI-driven tool designed to automate resume tailoring for specific job applications. Leveraging Langchain and the Groq API, this project performs intelligent job description analysis and skill extraction to generate personalized resumes that highlight your most relevant qualifications. Built with FastAPI, AI-ResumeForge provides a robust and scalable API for career optimization. Key technologies include LCEL for defining the AI pipeline and Pydantic for data validation. This project showcases my skills in AI, LLM integration with Groq, API development, and prompt engineering.
+
+
